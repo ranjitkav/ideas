@@ -1,0 +1,2 @@
+the current SIP 4xx code is too generic and does not convey the error appropriately. so I intend to propose a new SIP 4xx Invalid header / parameter and append SIP Reason header to it
+4xx invalid header
